@@ -4,6 +4,9 @@ Tracker web pour suivre les objets d'upgrade d'armures de Zelda: Tears of the Ki
 
 L'application est en PHP côté backend, sans framework côté frontend. Le front utilise des modules ES natifs et persiste la progression dans le `localStorage` du navigateur.
 
+## Pour tester
+- rdv [ici](https://ar.groutch.com)
+
 ## Fonctionnalités
 
 - recherche d'objets et de drops de monstres
